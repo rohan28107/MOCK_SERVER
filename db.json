@@ -1,80 +1,9 @@
 {
-  "cars": [
-    {
-      "id": 1,
-      "brand": "Tata",
-      "type": "Manual",
-      "year": 2019,
-      "kms": 10000,
-      "description": "Tata Altroz with all original documents",
-      "Price": 500000,
-      "price": "999998"
-    },
-    {
-      "brand": "Maruti Suzuki",
-      "type": "Automated",
-      "year": 2022,
-      "kms": 999,
-      "description": "qwertyuiokjhgfdxcvbsw",
-      "price": "9999999",
-      "id": 5
-    },
-    {
-      "brand": "Tata",
-      "type": "Manual",
-      "year": 2021,
-      "kms": 100,
-      "description": "qsxcefvc",
-      "price": "100000",
-      "id": 6
-    },
-    {
-      "brand": "Hyundai",
-      "type": "Automated",
-      "year": 2023,
-      "kms": 1233,
-      "description": "azcvgfrewaz",
-      "price": 123456,
-      "id": 7
-    },
-    {
-      "brand": "Tata",
-      "type": "Manual",
-      "year": 2022,
-      "kms": 1234,
-      "description": "1234qwert",
-      "price": "9876543",
-      "id": 8
-    }
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
   ],
-  "wishlisted_cars": [
-    {
-      "id": 1,
-      "brand": "Tata",
-      "type": "Manual",
-      "year": 2019,
-      "kms": 10000,
-      "description": "Tata Altroz with all original documents",
-      "Price": 500000,
-      "price": "999998"
-    },
-    {
-      "brand": "Maruti Suzuki",
-      "type": "Automated",
-      "year": 2022,
-      "kms": 999,
-      "description": "qwertyuiokjhgfdxcvbsw",
-      "price": 9999999,
-      "id": 5
-    },
-    {
-      "brand": "Tata",
-      "type": "Manual",
-      "year": 2021,
-      "kms": 100,
-      "description": "qsxcefvc",
-      "price": "100000",
-      "id": 6
-    }
-  ]
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
 }
