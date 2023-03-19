@@ -7,5 +7,12 @@
   ],
   "hotelDetails": [
 
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "username": "admin@gmail.com",
+      "password": "masai"
+    }
   ]
 }
